@@ -3,8 +3,7 @@
 - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: I would like to thank Prof. Luyao Zhang for her instructions on STATS201. Besides, thanks Shiran Yuan for inspiring me. 
 - **Projects**: 
 [Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/problem-set-1/Haowen_Ji_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb) and 
 [NLP-SoK](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/code/Haowen_NLP_Blockchain_SoKs.ipynb)
