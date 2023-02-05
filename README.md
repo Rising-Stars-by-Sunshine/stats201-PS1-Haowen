@@ -1,16 +1,4 @@
 # Web Page for Haowen Ji
-## Biography
-Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
-![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Haowen.jpg)
-## Project informationis
-This project is about querying blockchain data with three nodes and querying specific ERC20 and ERC721 tokens.
-## Course Project Sample
-[Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/problem-set-1/Haowen_Ji_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
-## References
-[Papers Cited](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/data/references.csv)
-
-
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
 - **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -18,12 +6,20 @@ This project is about querying blockchain data with three nodes and querying spe
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
 - **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+[Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/problem-set-1/Haowen_Ji_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
+[NLP-SoK](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/code/Haowen_NLP_Blockchain_SoKs.ipynb)
+
+## Biography
+Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Haowen.jpg)
+## Project informationis
+This project is about querying blockchain data with three nodes and querying specific ERC20 and ERC721 tokens.
+## Course Project Sample
+
+## References
+[Papers Cited](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/data/references.csv)
+
+
 
 ## Table of Contents
 - data
