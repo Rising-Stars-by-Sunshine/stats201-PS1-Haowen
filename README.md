@@ -7,7 +7,7 @@ This project is about querying blockchain data with three nodes and querying spe
 ## Course Project Sample
 [Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/problem-set-1/Haowen_Ji_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
 ## References
-
+[Papers Cited](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/data/references.csv)
 
 
 # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
@@ -39,10 +39,6 @@ This project is about querying blockchain data with three nodes and querying spe
 - ...
 
 
-## Code
-- Query Data
-- Process Data
-- Analyze Data
 - ...
 
 ## Spotlight
