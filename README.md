@@ -5,7 +5,7 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 ## Project informationis
 This project is about querying blockchain data with three nodes and querying specific ERC20 and ERC721 tokens.
 ## Course Project Sample
-[Problem Set 1](https://github.com/Haowen-Ji/stats201-PS1-Haowen/blob/main/Problem_Set_1/Haowen_Ji_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
+[Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/problem-set-1/Haowen_Ji_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
 
 
 
