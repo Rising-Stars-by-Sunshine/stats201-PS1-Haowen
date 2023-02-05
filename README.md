@@ -10,6 +10,10 @@
 ## Biography
 Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Haowen.jpg)
+## Spotlight
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Wordcloud.png)
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Network.png)
+
 ## References
 [Papers Cited](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/data/references.csv)
 
