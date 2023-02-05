@@ -1,4 +1,5 @@
 # Web Page for Haowen Ji
+
 ## Project information
 - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -7,13 +8,13 @@
 - **Projects**: 
 [Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/problem-set-1/Haowen_Ji_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb) and 
 [NLP-SoK](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/code/Haowen_NLP_Blockchain_SoKs.ipynb)
+
 ## Biography
 Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Haowen.jpg)
 ## Spotlight
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Wordcloud.png)
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Network.png)
-
 ## References
 [Papers Cited](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/data/references.csv)
 
