@@ -14,10 +14,18 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Haowen.jpg)
 
 ## Data
+### Meta Data Information
 | Data files| Data Content | Logo |
 | :---         |     :---:      |          ---: |
 | blocks_QuickNode.csv  | ethereum blockchain data for blocks   | :clown_face:  |
 | token_transfers.csv   | ethereum blockchain data for  MOONBIRDS token     | :japanese_goblin:    |
+### Data Dictionary 
+#### The Data Dictionary for the Block Level Data
+
+| variable name| description| frequency |  unit| range| type|
+| :---         |     :---     |          ---: |---: |---: |---: |---: |
+| blocks_QuickNode.csv  | ethereum blockchain data for blocks   | :clown_face:  |---: |---: |---: |
+| token_transfers.csv   | ethereum blockchain data for  MOONBIRDS token     | :japanese_goblin:    |---: |---: |---: |
 
 
 ## Spotlight
