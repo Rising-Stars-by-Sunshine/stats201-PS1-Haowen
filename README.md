@@ -12,6 +12,18 @@
 ## Biography
 Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Haowen.jpg)
+
+## Data
+|Citation                       | Title                                                  | URL                                          | 
+|-------------------------------|--------------------------------------------------------|----------------------------------------------|
+|Almashaqbeh and Solomon [2022] |SoK: privacy-preserving computing in the blockchain era |https://ieeexplore.ieee.org/document/9797340  |
+|Bonneau et al. [2015]          |SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies|https://ieeexplore.ieee.org/document/7163021|
+|Wang [2021] |SoK: Understanding BFT Consensus in the Age of Blockchains|https://eprint.iacr.org/2021/911|
+| Eskandari et al. [2020]     | Sok: Transparent dishonesty: front-running attacks on blockchain                                    |https://link.springer.com/chapter/10.1007/978-3-030-43725-1_13 |
+| Baum et al. [2021]          | Sok: Mitigation of front-running in decentralized finance                                           |https://eprint.iacr.org/2021/1628 |
+|Raikwar et al. [2019]       | SoK of used cryptography in blockchain                                                              |https://ieeexplore.ieee.org/document/8865045 |
+
+
 ## Spotlight
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Wordcloud.png)
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Haowen/blob/main/spotlight/figures/Network.png)
