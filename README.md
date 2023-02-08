@@ -15,10 +15,10 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 
 ## Data
 ### Meta Data Information
-| Data files| Data Content | Logo |
-| :---         |     :---:      |          ---: |
-| blocks_QuickNode.csv  | ethereum blockchain data for blocks   | :clown_face:  |
-| token_transfers.csv   | ethereum blockchain data for  MOONBIRDS token     | :japanese_goblin:    |
+| Data files| Data Content | Logo | Type|
+| :---         |     :---:      |          ---: | ---: |
+| blocks_QuickNode.csv  | ethereum blockchain data for blocks   | :clown_face:  | queried data |
+| token_transfers.csv   | ethereum blockchain data for  MOONBIRDS token     | :japanese_goblin:    | queried data |
 ### Data Dictionary 
 #### The Data Dictionary for the Block Level Data
 
